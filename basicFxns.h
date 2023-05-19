@@ -1,10 +1,7 @@
-#include <stdio.h>
-#include <math.h>
-#include <stdlib.h>
-#include<malloc.h>
-#include<string.h>
-#include <sys/types.h>
-#include <dirent.h>
+/*
+Description:
+Dump of all the basic function I use for parsing, calculations, dimension conversion, file opening, etc. It's a mess
+*/
 
 /*
 note from Author:
@@ -14,7 +11,13 @@ have the same bug. Since they have the same bug, it all works out fine. I think.
 
 */
 
-
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include<malloc.h>
+#include<string.h>
+#include <sys/types.h>
+#include <dirent.h>
 
 //float pi = 3.14159265359;
 
